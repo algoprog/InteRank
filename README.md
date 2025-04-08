@@ -1,4 +1,5 @@
 # InteRank: Reasoning-Intensive Document Ranking with Small Language Models
+[![arxiv](https://img.shields.io/badge/arXiv-2504.03947-b31b1b.svg)](https://arxiv.org/abs/2504.03947)
 
 InteRank is a novel approach for training compact language models (< 3B parameters) to perform reasoning-intensive document ranking with performance comparable to models over 20x larger. Our methodology combines knowledge distillation from a large teacher model with reinforcement learning optimization to create efficient yet powerful ranking models that can explain their decisions.
 
