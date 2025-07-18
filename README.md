@@ -27,6 +27,11 @@ Key features:
 - Context Length: 4K tokens
 - Hardware Requirements: Single A100 GPU
 
+## Training Data
+
+- Automatically annotated ~100K queries-document pairs from 20K Stackexchange questions using Llama-3-70B, with relevance labels and explanations
+- Data available upon request for academic (non-commercial) use only
+
 ## Results
 
 Our 3B parameter model achieves:
